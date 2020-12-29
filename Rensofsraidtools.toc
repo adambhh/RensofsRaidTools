@@ -1,0 +1,4 @@
+## Interface: 90002
+## Title: Rensof's Raid Tools
+## Author: Rensof-Turalyon Eu
+## Version: 0.0.1
