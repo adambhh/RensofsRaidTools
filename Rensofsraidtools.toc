@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: Rensof's Raid Tools
+## Author: Rensof-Turalyon EU
+## Version: 0.0.1
+
+main.lua
